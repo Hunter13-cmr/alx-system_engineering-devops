@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp u+x -r hello
+chgrp -r u+x hello
